@@ -33,7 +33,7 @@ Algumas das funcionalidades que serão incluídas no DevStream são:
 - Fase de testes: realizar testes de usabilidade e coletar feedback de usuários;
 - Fase de lançamento: publicar a plataforma e monitorar o uso.
 
-##Links úteis
+## Links úteis
 
 - Notion https://www.notion.so/DevStream-62546969ee934ea2aacc2ec850aa1bc5
 - Figma https://www.figma.com/file/dn8t0jsK0VY2gakXg1pblc/WireFrame-DevStream?node-id=0%3A1&t=kVEnSStRMOcBNUiz-0
